@@ -14,7 +14,7 @@ Este projeto é uma aplicação web desenvolvida com ASP.NET e C# utilizando a a
 
 - **ASP.NET MVC:** Framework para construção da aplicação web.
 - **C#:** Linguagem de programação utilizada no backend.
-- **SQL Server:** Banco de dados para armazenar informações de filmes e jogos.
+- **SQLite:** Banco de dados para armazenar informações de filmes e jogos.
 - **Entity Framework:** ORM (Object-Relational Mapping) para interagir com o banco de dados.
 - **Bootstrap:** Framework CSS para o design responsivo da interface do usuário.
 
